@@ -3,8 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
+The link of the working project can be found on the https://irahulcse.github.io/Quiz_Application_Flutter/#/.
 
 A few resources to get you started if this is your first Flutter project:
 
